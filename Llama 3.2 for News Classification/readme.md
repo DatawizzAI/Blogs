@@ -1,11 +1,7 @@
 
 ---
 
-## **Individual Blog README.md Files**
-
-Each blog should have its own `README.md` within its directory to provide specific details.
-
-### **Example for `blog1/README.md`**
+## **Llama 3.2 for News Classification README.md Files**
 
 ```markdown
 # Achieving 95% Accuracy with a Fine-Tuned Llama Model
@@ -18,7 +14,6 @@ This directory contains the code and resources for the blog post:
 
 - `fine_tuned_llama3_2_classification_model.ipynb`: Jupyter notebook for fine-tuning the Llama model.
 - `requirements.txt`: List of required Python packages.
-- `data/`: Directory containing any necessary datasets.
 - `README.md`: Instructions and details for this blog.
 
 ## Getting Started
