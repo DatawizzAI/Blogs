@@ -1,7 +1,7 @@
 
 ---
 
-## **Llama 3.2 for News Classificatioמ
+## **Llama 3.2 for News Classification**
 
 ```markdown
 # Achieving 95% Accuracy with a Fine-Tuned Llama Model
