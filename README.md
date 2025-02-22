@@ -4,7 +4,8 @@ Welcome to the **Datawizz Blogs** repository! This repository contains code, not
 
 ## Table of Contents
 
-- [Blog 1: Achieving 95% Accuracy with a Fine-Tuned Llama Model](./blog1/README.md)
+- [Blog 1: Achieving 95% Accuracy with a Fine-Tuned Llama Model](./Llama 3.2 for News Classification/README.md)
+- [Blog 2: Fast GRPO Fine-Tuning for Q&A: How We Outperformed OpenAI’s O1-Preview with Qwen-0.5B in 50 Minutes](./Fast GRPO Fine-Tuning for Q&A/README.md)
 
 ## Getting Started
 
